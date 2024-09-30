@@ -49,6 +49,7 @@ namespace CardsMark3
                 contextMenu.MenuItems.Add(Rename);
 
                 // Отображение контекстного меню
+                //гы
                 contextMenu.Show((Button)sender, new System.Drawing.Point(e.X, e.Y));
             }
         }
